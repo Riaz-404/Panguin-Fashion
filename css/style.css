@@ -1,0 +1,30 @@
+.navbar-brand img{
+    height: 50%;
+    width: 50%;
+}
+
+.nav-link{
+    font-size: 16px;
+    font-weight: 500;
+    margin-right: 11px;
+}
+
+.card-group{
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-title{
+    font-size: 24px;
+    font-weight: bold;
+    color: #363958;
+}
+
+.card-body h1{
+    color: #FA804C;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#navbarNav{
+    margin-right: 20px;
+}
